@@ -1,0 +1,12 @@
+ASSAY_PLATE_BARCODE = 'Assay_Plate_Barcode'
+BROAD_SAMPLE = 'broad_sample'
+WELL_POSITION = 'well_position'
+IMAGE_NUMBER = "image_number"
+OBJECT_NUMBER = "object_number"
+FILE_PATH = "file_path"
+FIELD = "field"
+AREA = "area"
+MAX_X = "maxx"
+MIN_X = "minx"
+MAX_Y = "maxy"
+MIN_Y = "miny"

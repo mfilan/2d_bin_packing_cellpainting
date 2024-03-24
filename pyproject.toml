@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "2d_bin_packing"
+version = "0.1.1"
+description = ""
+authors = ["maciej.filanowicz <mfilon13@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.13"
+jupyter = "^1.0.0"
+notebook = "6.3.0"
+pandas = "^2.1.4"
+pyarrow = "^14.0.2"
+geopandas = "^0.14.3"
+traitlets = "5.9.0"
+tqdm = "^4.66.2"
+pillow = "^10.2.0"
+opencv-python = "^4.9.0.80"
+matplotlib = "^3.8.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+builtins = 'get_ipython'
+
